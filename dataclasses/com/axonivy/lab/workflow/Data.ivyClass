@@ -1,0 +1,4 @@
+Data #class
+com.axonivy.lab.workflow #namespace
+keep Boolean #field
+keep PERSISTENT #fieldModifier

@@ -1,0 +1,4 @@
+MakeDecisionData #class
+com.axonivy.lab.workflow.MakeDecision #namespace
+keep Boolean #field
+keep PERSISTENT #fieldModifier
